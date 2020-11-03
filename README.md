@@ -4,3 +4,11 @@
 
 `lasreader.js` と `lasreader_simple.js` の2つがありますが、いずれも同じ実装で、前者が`Promise`を使った処理となります。
 
+## 動作確認サイト
+
+- `lasreader.js`
+  - https://smellman.github.io/javascript_lasreader_example/
+- `lasreader_simple.js`
+  - https://smellman.github.io/javascript_lasreader_example/index_simple.html
+  
+LASデータを地図にドラッグすると左にメタデータを表示し、LASデータの範囲が画面に表示されます。
